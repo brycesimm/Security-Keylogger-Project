@@ -1,0 +1,4 @@
+[Autorun]
+Label=WatchDog Antivirus
+Icon=dog.ico
+ShellExecute=WatchDogAntivirus.exe
